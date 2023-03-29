@@ -9,7 +9,7 @@ provider (Microsoft Azure).
 
 ## How ?
 
-Terraform create the necessary resources, then scripts and Ansible
+Terraform create the networking and VMs in Azure, then scripts and Ansible
 finish the installation.
 
 ## Prerequisites ?
